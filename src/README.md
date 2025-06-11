@@ -1,0 +1,1 @@
+📌 **Ссылка на репозиторий проекта:** [github.com/eugeneliukindev/Aiogram-Base-App](https://github.com/eugeneliukindev/Aiogram-Base-App)
